@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="fyz2" id="20C38F7C-A40D-10ED-D76A-E561BFD95284" version="3.5">
+<createdBy>lnead</createdBy>
+<createdTime>2023-05-13 22:07:12 UTC</createdTime>
+<ownerDesignName>fyz2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>20C38F7C-A40D-10ED-D76A-E561BFD95284</designId>
+</OSDM_Design>
