@@ -4,6 +4,11 @@ First task is to create physical model of the relational database for brewery. C
 
 ![image](https://github.com/AdamLnenicka/SQL-brewery/assets/70570107/c4632acc-d43f-4a38-8770-394adb6e87fc)
 
+Physical model of database is in fyz2.dmd
+SQL statements to create the appropriate tables are in DSND.sql
+Data are ready for import in .tsv file
+
+
 <h2>TASK #2</h2>
 Create PL/SQL code for following tasks:
 
@@ -32,3 +37,5 @@ Create PL/SQL code for following tasks:
 7. Create a trigger(s) that allows DML operations (inserting, updating, deleting) on the "breweries_address" view.
 
 8. Create a function that returns a text string with information about the beer. The only parameter will be the beer id. If a non-existent beer id is entered, the function will return NULL. The output will depend on the number of letters in the name of the beer. If the name has 9 or fewer letters, the function output will be a string containing the name of the beer, the name of the brewery, and the alcohol content. If the name has 10 to 18 letters, the function output will be a string containing the name of the beer, the name of the brewery, and the volume of beer exhibited in liters in the current year. If the name has more than 18 letters, the function output will be a string containing the name of the beer and the name of the brewery. Each piece of information will be separated by a comma and terminated by a period.
+
+Finished code to all subtasks is in TASK2.txt
