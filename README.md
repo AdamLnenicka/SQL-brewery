@@ -9,7 +9,7 @@ Create PL/SQL code for following tasks:
 
 1. Create a procedure that, for all restaurants within the selected region, outputs the name of the restaurant and the number of different beers offered by the restaurant. Also, it outputs a list of individual beer names and how many liters of each beer were exhibited in the given restaurant. The region will be entered as a parameter using a text string. The output will be in the following format. The number of hashes will correspond to the length of the previous line.
    
-   estaurant Name (Number of Different Beers)
+   Restaurant Name (Number of Different Beers)
 
    ####################################
 
